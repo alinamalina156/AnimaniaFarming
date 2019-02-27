@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O#",
+        "OHO",
+        "#O#"
+    ],
+    "key": {
+        "#": {
+            "item": "af:straw_clay_brick"
+        },
+        "O": {
+            "item": "minecraft:brick"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        }
+    },
+    "result": {
+        "item": "af:composter",
+        "count": 1
+    }
+}

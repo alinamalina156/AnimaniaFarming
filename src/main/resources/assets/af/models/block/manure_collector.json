@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "af:blocks/manure_collector_front",
+        "up": "af:blocks/manure_collector_top",
+        "down": "af:blocks/manure_collector_top",
+        "north": "af:blocks/manure_collector_front",
+        "east": "af:blocks/manure_collector_front",
+        "south": "af:blocks/manure_collector_front",
+        "west": "af:blocks/manure_collector_front"
+    }
+}

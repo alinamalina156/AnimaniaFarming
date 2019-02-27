@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "burning=false,facing=north": { "model": "af:biogas_fermenter" },
+        "burning=false,facing=east": { "model": "af:biogas_fermenter", "y": 90 },
+        "burning=false,facing=south": { "model": "af:biogas_fermenter", "y": 180 },
+        "burning=false,facing=west": { "model": "af:biogas_fermenter", "y": 270 },
+        "burning=true,facing=north": { "model": "af:lit_biogas_fermenter" },
+        "burning=true,facing=east": { "model": "af:lit_biogas_fermenter", "y": 90 },
+        "burning=true,facing=south": { "model": "af:lit_biogas_fermenter", "y": 180 },
+        "burning=true,facing=west": { "model": "af:lit_biogas_fermenter", "y":270  }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "burning=false,facing=north": { "model": "af:biogas_generator" },
+        "burning=false,facing=east": { "model": "af:biogas_generator", "y": 90 },
+        "burning=false,facing=south": { "model": "af:biogas_generator", "y": 180 },
+        "burning=false,facing=west": { "model": "af:biogas_generator", "y": 270 },
+        "burning=true,facing=north": { "model": "af:lit_biogas_generator" },
+        "burning=true,facing=east": { "model": "af:lit_biogas_generator", "y": 90 },
+        "burning=true,facing=south": { "model": "af:lit_biogas_generator", "y": 180 },
+        "burning=true,facing=west": { "model": "af:lit_biogas_generator", "y":270  }
+    }
+}

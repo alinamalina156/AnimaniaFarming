@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "BGB",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "af:straw_clay_brick"
+        },
+        "P": {
+            "item": "minecraft:hopper"
+        },
+        "B": {
+            "item": "minecraft:brick"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        }
+    },
+    "result": {
+        "item": "af:manure_collector",
+        "count": 1
+    }
+}

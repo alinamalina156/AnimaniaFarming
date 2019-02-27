@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SIS",
+        "ICI",
+        "SHS"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "af:straw_clay_brick"
+        },
+        
+        "C":
+        {
+            "item": "af:compost"
+        },
+       
+        "H":
+        {
+            "item": "minecraft:cauldron"
+        },
+        
+        "I":
+        {
+            "item": "af:iron_carbide_ingot"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "af:biogas_fermenter",
+        "count": 1
+    }
+}

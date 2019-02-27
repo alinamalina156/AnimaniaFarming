@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "af:blocks/composter_front",
+        "up": "af:blocks/composter_top",
+        "down": "af:blocks/composter_top",
+        "north": "af:blocks/composter_front",
+        "east": "af:blocks/composter_side",
+        "south": "af:blocks/composter_side",
+        "west": "af:blocks/composter_side"
+    }
+}

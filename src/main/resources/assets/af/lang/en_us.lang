@@ -1,0 +1,45 @@
+//Name the items blocks and tools
+//Items
+item.ruby.name=Ruby
+item.obsidian_ingot.name=Obsidian Ingot
+item.compost.name=Compost
+item.straw_clay_brick.name=Straw Clay Brick
+item.straw_clay.name=Straw Clay
+item.crude_carbide.name=Crude Carbide
+item.iron_carbide_ingot.name=Iron Carbide Ingot
+item.heating_component.name=Heating Component
+item.silicon_steel_ingot.name=Silicon Steel Ingot
+
+//Blocks
+tile.ruby_block.name=Block of Ruby
+tile.dirty_block.name=Dirty Block
+
+//Tools
+item.ruby_sword.name=Ruby Sword
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_axe.name=Ruby Axe
+item.ruby_hoe.name=Ruby Hoe
+
+//TabName
+itemGroup.AnimaniaFarmingTab=Animania Farming
+
+//Machines
+tile.sintering_furnace.name=Sintering Furnace
+container.sintering_furnace=Sintering Furnace
+tile.biogas_generator.name=Biogas Generator
+container.sintering_furnacebiogas_generator=Biogas Generator
+tile.compost_generator.name=Compost Generator
+container.compost_generator=Compost Generator
+tile.manure_collector.name=Manure Collector
+container.manure_collector=Manure Collector
+tile.biogas_fermenter.name=Biogas Fermenter
+container.biogas_fermenter=Biogas Fermenter
+tile.composter.name=Composter
+container.composter=Composter
+
+//Fluids
+fluid.manure=Manure
+tile.manure.name=Manure
+fluid.biogas=Biogas
+tile.biogas.name=Biogas

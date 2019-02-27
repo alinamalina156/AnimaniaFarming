@@ -1,0 +1,17 @@
+[
+{
+  "modid": "cjcore",
+  "name": "CJCore",
+  "description": "The core library for CJMinecraft's mods.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/CJMinecraft01/CJCore",
+  "updateUrl": "",
+  "authorList": ["CJMinecraft"],
+  "credits": "Subscribers who influenced the creation of this library. Thank you to Emotion Fox for the amazing Energy Bar texture! Initial port to 1.12 by Noobfortress",
+  "logoFile": "",
+  "screenshots": [],
+  "useDependencyInformation": true,
+  "dependencies": []
+}
+]

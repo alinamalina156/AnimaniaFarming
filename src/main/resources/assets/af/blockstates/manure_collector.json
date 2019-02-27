@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=north": { "model": "af:manure_collector" },
+        "facing=south": { "model": "af:manure_collector", "y": 180 },
+        "facing=west":  { "model": "af:manure_collector", "y": 270 },
+        "facing=east":  { "model": "af:manure_collector", "y": 90 },
+        "inventory": { "model": "af:manure_collector" }
+    }
+}

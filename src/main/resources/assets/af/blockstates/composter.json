@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=north": { "model": "af:composter" },
+        "facing=south": { "model": "af:composter", "y": 180 },
+        "facing=west":  { "model": "af:composter", "y": 270 },
+        "facing=east":  { "model": "af:composter", "y": 90 },
+        "inventory": { "model": "af:composter" }
+    }
+}

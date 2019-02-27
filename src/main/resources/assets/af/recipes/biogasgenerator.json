@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SIS",
+        "ICI",
+        "SHS"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "af:straw_clay_brick"
+        },
+        
+        "C":
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+       
+        "H":
+        {
+            "item": "af:heating_component"
+        },
+        
+        "I":
+        {
+            "item": "af:silicon_steel_ingot"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "af:biogas_generator",
+        "count": 1
+    }
+}

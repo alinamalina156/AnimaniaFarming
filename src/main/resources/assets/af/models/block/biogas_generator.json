@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "af:blocks/biogas_generator_front_off",
+        "up": "af:blocks/biogas_generator_top",
+        "down": "af:blocks/biogas_generator_bootom",
+        "north": "af:blocks/biogas_generator_front_off",
+        "east": "af:blocks/biogas_generator_sides",
+        "south": "af:blocks/biogas_generator_sides",
+        "west": "af:blocks/biogas_generator_sides"
+    }
+}

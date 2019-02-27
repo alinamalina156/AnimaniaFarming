@@ -1,0 +1,21 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+    
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "af:straw_clay",
+        "count": 1
+    }
+}

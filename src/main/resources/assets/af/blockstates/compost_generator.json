@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "burning=false,facing=north": { "model": "af:compost_generator" },
+        "burning=false,facing=east": { "model": "af:compost_generator", "y": 90 },
+        "burning=false,facing=south": { "model": "af:compost_generator", "y": 180 },
+        "burning=false,facing=west": { "model": "af:compost_generator", "y": 270 },
+        "burning=true,facing=north": { "model": "af:lit_compost_generator" },
+        "burning=true,facing=east": { "model": "af:lit_compost_generator", "y": 90 },
+        "burning=true,facing=south": { "model": "af:lit_compost_generator", "y": 180 },
+        "burning=true,facing=west": { "model": "af:lit_compost_generator", "y":270  }
+    }
+}

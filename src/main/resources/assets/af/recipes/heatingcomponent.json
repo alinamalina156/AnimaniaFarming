@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iRi",
+        "iLi",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "af:iron_carbide_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    "result": {
+        "item": "af:heating_component",
+        "count": 1
+    }
+}
